@@ -1,4 +1,4 @@
-# port
+# portfolio
 # 🌟 Lee Chan Saem Portfolio
 
 > Creative Designer & Developer  
