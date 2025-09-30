@@ -45,8 +45,8 @@
 ### 🔷 INCHEON PENTAPORT
 - 2025 페이지 서브 로고 디자인
 
-### 🔷 Repeat 전시: *Plastic Marble*
-- 업사이클 소재를 활용한 디자인 및 전시 참여
+### 🔷 ZERO WASTE
+- ZERO WASTE 페이지 제작
 
 ### 🔷 LOTTE WORLD MUSEUM
 - 전시관 페이지 제작
