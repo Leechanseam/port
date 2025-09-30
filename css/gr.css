@@ -1,0 +1,53 @@
+.skills_wrap{
+    width: 60%;
+    padding: 30px;
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 50px;
+    
+    animation: slideInRight 5s ease-out forwards;
+    display: block;
+}
+@keyframes slideInRight {
+  from {
+    transform: translateX(-100%) rotate(10deg);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0) rotate(0deg);
+    opacity: 1;
+  }
+}
+    & h4{
+        font-size: 2vw;
+        font-weight: bold;
+        color: #fff;
+    }
+& .skill_bg{
+    width: 100%;
+    
+    & .skill_bar{
+        color: #fff;
+        padding: 8px 0;
+        width: 0;
+        text-align:center;
+        /* border-radius: 20px; */
+    
+    }
+    & .html{
+        background-color: rgb(116, 32, 32);
+        /* border-radius: 20px; */
+    }
+    & .css{
+        background-color: #f44330;
+    }
+    & .js{
+        background-color: rgb(156, 165, 77);
+    }
+    & .jq{
+        background-color: cadetblue;
+    }
+    & .figma{
+        background-color: rgb(51, 14, 51);
+    }
+}
+
