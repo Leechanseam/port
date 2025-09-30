@@ -73,3 +73,10 @@
 ```markdown
 ![홈 화면](images/home.png)
 ![프로젝트 화면](images/project.png)
+
+
+📧 Email: dlquddnr30@naver.com
+
+📱 Phone: 010-5648-3348
+
+📷 Instagram / Facebook: [링크 추가 예정]
